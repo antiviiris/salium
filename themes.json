@@ -1,5 +1,7 @@
 [
     {
+        "name": "default",
+        "author": "origin",
         "primary": "#222222",
         "secondary": "#555555",
         "tertiary": "#777777",
