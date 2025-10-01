@@ -1,0 +1,58 @@
+[
+    {
+        "primary": "#222222",
+        "secondary": "#555555",
+        "tertiary": "#777777",
+        "text": "#ffffff",
+        "background": "#050505",
+        "accent": "#57cdac"
+    },
+    {
+        "primary": "#111111",
+        "secondary": "#333333",
+        "tertiary": "#555555",
+        "text": "#ffffff",
+        "background": "#000000",
+        "accent": "#57cdac"
+    },
+    {
+        "primary": "#cccccc",
+        "secondary": "#e6e6e6",
+        "tertiary": "#ffffff",
+        "text": "#292929",
+        "background": "#b0b0b0",
+        "accent": "#57cdac"
+    },
+    {
+        "primary": "#1a1d28",
+        "secondary": "#313f4e",
+        "tertiary": "#4f617d",
+        "text": "#bae3ee",
+        "background": "#090a0b",
+        "accent": "#7cc2f8"
+    },
+    {
+        "primary": "#1a2823",
+        "secondary": "#33523e",
+        "tertiary": "#417656",
+        "text": "#e5ffed",
+        "background": "#090b0a",
+        "accent": "#7ea59a"
+    },
+    {
+        "primary": "#8fbcac",
+        "secondary": "#639274",
+        "tertiary": "#07170e",
+        "text": "#000000",
+        "background": "#cde5dd",
+        "accent": "#97f7dc"
+    },
+    {
+        "primary": "#9e8cb1",
+        "secondary": "#eac5f2",
+        "tertiary": "#170717",
+        "text": "#000000",
+        "background": "#cdb6d3",
+        "accent": "#f8e0ff"
+    }
+]
